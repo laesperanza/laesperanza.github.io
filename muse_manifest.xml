@@ -1,0 +1,28 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="10128709" ref="quienes-somos:index:contacto:envíos-al-interior:productos"/>
+    <file name="quienes-somos.css" crc="3913121912" ref="quienes-somos"/>
+    <file name="index.css" crc="3913121912" ref="index"/>
+    <file name="contacto.css" crc="3913121912" ref="contacto"/>
+    <file name="env_os-al-interior.css" crc="3913121912" ref="envíos-al-interior"/>
+    <file name="productos.css" crc="3913121912" ref="productos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:productos:envíos-al-interior:quienes-somos"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contacto:productos:envíos-al-interior:quienes-somos"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:productos:envíos-al-interior:quienes-somos"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:productos:envíos-al-interior:quienes-somos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:contacto:productos:envíos-al-interior:quienes-somos"/>
+  </folder>
+  <folder name="images">
+    <file name="u69-grad.png" crc="4026889267" ref="index"/>
+    <file name="logo-azul 300x139.png" crc="4269507055" ref="index"/>
+  </folder>
+  <file name="index.html" crc="372185793" mt="1436974258762" redirect="true"/>
+  <file name="contacto.html" crc="4065660061" mt="1436974258778" redirect="true"/>
+  <file name="productos.html" crc="326106998" mt="1436974258778" redirect="true"/>
+  <file name="envíos-al-interior.html" crc="235496341" mt="1436974258778" redirect="true"/>
+  <file name="quienes-somos.html" crc="50186534" mt="1436974258778" redirect="true"/>
+</manifest>
