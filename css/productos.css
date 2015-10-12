@@ -31,18 +31,19 @@
 	margin-right: -10000px;
 }
 
-#u71-4
+#u71-8
 {
 	z-index: 4;
-	width: 257px;
+	width: 252px;
+	min-height: 65px;
 	margin-right: -10000px;
 	margin-top: 31px;
-	left: 516px;
+	left: 521px;
 }
 
 #menuu103
 {
-	z-index: 8;
+	z-index: 12;
 	width: 683px;
 	margin-right: -10000px;
 	margin-top: 166px;
@@ -244,7 +245,7 @@
 
 #u186
 {
-	z-index: 39;
+	z-index: 43;
 	width: 300px;
 	height: 144px;
 	margin-right: -10000px;

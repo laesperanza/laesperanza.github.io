@@ -15,13 +15,25 @@
 	position: relative;
 }
 
-#u71-4
+#u71-8
 {
-	line-height: 29px;
 	color: #1B1464;
+	line-height: 29px;
+	text-align: center;
 	font-size: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
+}
+
+#u71-4,#u71-6
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u71-3,#u71-5
+{
+	font-size: 14px;
+	line-height: 17px;
 }
 
 #u108-4
