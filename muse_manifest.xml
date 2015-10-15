@@ -1,4 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="assets">
+    <file name="listado-de-precios-genericos.xlsx" crc="4183390678" mt="1442592815000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
     <file name="master_a-p_gina-maestra.css" crc="3758807559" ref="quienes-somos:index:contacto:envíos-al-interior:productos"/>
@@ -20,9 +23,9 @@
     <file name="u69-grad.png" crc="4026889267" ref="index"/>
     <file name="logo-azul 300x139.png" crc="4269507055" ref="index"/>
   </folder>
-  <file name="index.html" crc="4002805114" mt="1436975084116" redirect="true"/>
-  <file name="contacto.html" crc="4139844367" mt="1436975084120" redirect="true"/>
-  <file name="productos.html" crc="4113574868" mt="1436975084123" redirect="true"/>
-  <file name="envíos-al-interior.html" crc="3771920035" mt="1436975084130" redirect="true"/>
-  <file name="quienes-somos.html" crc="3879990796" mt="1436975084133" redirect="true"/>
+  <file name="index.html" crc="3898056723" mt="1444949851814" redirect="true"/>
+  <file name="contacto.html" crc="355699792" mt="1444949851819" redirect="true"/>
+  <file name="productos.html" crc="381854859" mt="1444949851822" redirect="true"/>
+  <file name="envíos-al-interior.html" crc="52453884" mt="1444949851826" redirect="true"/>
+  <file name="quienes-somos.html" crc="78739795" mt="1444949851831" redirect="true"/>
 </manifest>
